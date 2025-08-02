@@ -12,7 +12,7 @@ This project implements a machine learning-based **Network Intrusion Detection S
 - **AutoML Tool**: IBM Watsonx AutoAI
 - **Model Chosen**: Decision Tree Classifier (Pipeline 9, Accuracy: 98%)
 - **Deployment**: IBM Watson Machine Learning (WML) — Online Deployment
-- **Frontend**: Streamlit UI for uploading CSVs and visualizing predictions
+  
 
 ---
 
